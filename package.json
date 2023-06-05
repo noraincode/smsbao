@@ -1,8 +1,12 @@
 {
   "name": "smsbao",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A node.js client for smsbao.com",
-  "keywords": ["sms", "sdk", "smsbao"],
+  "keywords": [
+    "sms",
+    "sdk",
+    "smsbao"
+  ],
   "main": "index.ts",
   "license": "GNU General Public License v3.0",
   "dependencies": {
