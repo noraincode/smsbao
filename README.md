@@ -16,7 +16,7 @@ yarn add smsbao
 
 # Usage
 
-```
+```ts
 import { Client} from 'smsbao'
 
 const client = new Client({
