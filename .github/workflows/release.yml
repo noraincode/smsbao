@@ -5,6 +5,8 @@ on:
       release-type:
         description: 'Release type (one of): patch, minor, major, prepatch, preminor, premajor, prerelease'
         required: true
+
+permissions: read-all|write-all
         
 jobs:
   build:
